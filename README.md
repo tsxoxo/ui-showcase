@@ -20,3 +20,9 @@ Working through the [timer task](https://eugenkiss.github.io/7guis/tasks/#timer)
 [neeed_swipe_anim_B_2.webm](https://github.com/user-attachments/assets/db61a8e3-584a-42ea-b358-aa763033f71a)
 
 Early exploration of a gesture-based micro-interaction in a todo app.
+
+## Responsive Design Systems
+
+<img width="2102" height="864" alt="Side-by-side comparison of mobile and desktop website layouts showing responsive design with consistent typography and content hierarchy" src="https://github.com/user-attachments/assets/e58eb997-09ce-4998-b457-83f33b1812d0" />
+
+Mobile and desktop layouts for personal website using [Utopia](https://utopia.fyi/) design system to help with consistent responsive design. The base grid as well as the spacing elements (small purple squares between paragraphs) are visualized here to show the underlying spacing.
