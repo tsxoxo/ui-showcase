@@ -1,4 +1,8 @@
-# ui-showcase
+# Design Process Documentation
+
+UI design work and prototyping explorations created in Figma.
+
+---
 
 ## Interface Implementation Study
 
@@ -33,3 +37,7 @@ Mobile and desktop layouts for personal website using [Utopia](https://utopia.fy
 <img width="847" height="699" alt="Two mobile timer app interface concepts with bold 80s-inspired colors and typography" src="https://github.com/user-attachments/assets/42bd28dd-b7fe-4e53-9f85-6ffc9d195617" />
 
 Timer app interface concepts exploring 80s-inspired visual language.
+
+---
+
+*Figma source files available upon request.*
