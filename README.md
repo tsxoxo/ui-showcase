@@ -23,6 +23,13 @@ Early exploration of a gesture-based micro-interaction in a todo app.
 
 ## Responsive Design Systems
 
-<img width="2102" height="864" alt="Side-by-side comparison of mobile and desktop website layouts showing responsive design with consistent typography and content hierarchy" src="https://github.com/user-attachments/assets/e58eb997-09ce-4998-b457-83f33b1812d0" />
+<img width="1358" height="555" alt="Side-by-side comparison of mobile and desktop website layouts showing responsive design with consistent typography and content hierarchy
+" src="https://github.com/user-attachments/assets/7e7d444f-bee6-4eb9-b7bd-ea0225458677" />
 
 Mobile and desktop layouts for personal website using [Utopia](https://utopia.fyi/) design system to help with consistent responsive design. The base grid as well as the spacing elements (small purple squares between paragraphs) are visualized here to show the underlying spacing.
+
+## Visual Concept Exploration
+
+<img width="847" height="699" alt="Two mobile timer app interface concepts with bold 80s-inspired colors and typography" src="https://github.com/user-attachments/assets/42bd28dd-b7fe-4e53-9f85-6ffc9d195617" />
+
+Timer app interface concepts exploring 80s-inspired visual language.
